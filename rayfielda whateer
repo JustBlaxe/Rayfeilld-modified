@@ -127,7 +127,7 @@ local function LoadConfiguration(Configuration)
 				end    
 			end)
 		else
-			RayfieldLibrary:Notify("Flag Error","Rayfield was unable to find '"..FlagName.. "'' in the current script")
+			RayfieldLibrary:Notify("Flag Error","Arus was unable to find '"..FlagName.. "'' in the current script")
 		end
 	end)
 end
